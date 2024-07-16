@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+an e commerce website made using React named as shopy-cart
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
